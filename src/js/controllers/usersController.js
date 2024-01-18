@@ -95,6 +95,3 @@ function emptyState() {
         document.querySelector('.empty-state').classList.add('hide')
     }
 }
-
-const sucesso = (voce) => { `${{ mecontrata } = "sim"}` }
-alert(vaga.mecontrata)
